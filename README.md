@@ -1,7 +1,7 @@
 # ExamenJPA
- Examen realizado en la asignatura de Acceso a Datos
+This is an exam I did in the subject Access to Data
  
-# Aclaraciones
+# Warning
 
-Falta paquete llamado Daw.jar que servia para leer del teclado por consola.
-Y faltan dos paquetes de Utilidades que servian para crear el menu y para crear los DAOs
+Missing package called Daw.jar that was used to read from the keyboard by console.
+And there are two Utilities packages that were used to create the menu and to create the DAOs, both provided by the teacher.
